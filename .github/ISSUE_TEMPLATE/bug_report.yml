@@ -1,0 +1,35 @@
+name: 问题反馈
+description: 反馈界面、搜索或窗口问题，不提交授权凭证。
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿提交邀请码、密码、Cookie、令牌、私钥或完整设备编号。授权与安全问题请私下联系 zjyart@gmail.com。"
+  - type: input
+    id: app_version
+    attributes:
+      label: App 版本
+      placeholder: 0.9.0.261010
+    validations:
+      required: true
+  - type: input
+    id: macos_version
+    attributes:
+      label: macOS 版本
+      placeholder: macOS 15 / Apple Silicon
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 描述操作与预期结果，不包含私密搜索、账号或授权信息。
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: 实际结果
+      description: 可附经过脱敏的截图；请先遮盖个人与授权资料。
+    validations:
+      required: true
