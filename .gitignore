@@ -1,0 +1,13 @@
+*
+!.gitignore
+!README.md
+!NOTICE.txt
+!CHANGELOG.md
+!SECURITY.md
+!docs/
+!docs/*.md
+!assets/
+!assets/*.png
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/*.yml
