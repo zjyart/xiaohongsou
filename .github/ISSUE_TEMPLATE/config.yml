@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用文档
+    url: https://zhaojunyu.com/apps/xiaohongsou/docs/
+    about: 安装、搜索、小窗、设置与更新说明。
+  - name: 授权与安全问题
+    url: mailto:zjyart@gmail.com
+    about: 私下联系开发者，不在公开 Issue 中提交邀请码或设备资料。
