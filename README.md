@@ -1,59 +1,94 @@
-<p align="center"><img src="assets/icon.png" width="88" alt="小红搜图标"></p>
+<p align="center"><img src="assets/icon.png" width="76" alt="小红搜图标"></p>
 <h1 align="center">小红搜。</h1>
 <p align="center"><strong>让搜索更专注。</strong></p>
-<p align="center">搜索一个问题，阅读真实笔记，找到答案就停下来。</p>
-<p align="center">
-  <a href="https://github.com/zjyart/xiaohongsou/releases/latest"><strong>下载 Mac 版</strong></a> ·
-  <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> ·
-  <a href="https://zhaojunyu.com/apps/xiaohongsou/docs/">使用文档</a> ·
-  <a href="docs/faq.md">常见问题</a>
-</p>
+<p align="center">在小红书里找答案，把注意力留给眼前的问题。</p>
+<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.13.7.261013"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
+<p align="center">Apple 芯片 Mac · macOS 13+ · 无需邀请码 · 无使用期限</p>
 
-> **邀请码内测中。** 支持 Apple Silicon、macOS 13+。安装包不包含使用资格，需要获批设备及对应邀请码。当前版本尚未取得 Developer ID 签名与 Apple 公证；遇到系统或浏览器安全警告，请停止安装并联系开发者。
+> **公开测试版 0.13.7。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
 
-## 只为这一次搜索
+<p align="center"><img src="assets/0.13.7/home-standard.jpg" width="940" alt="0.13.7 真实标准首页，手写主图下方是唯一搜索框"></p>
 
-<p align="center"><img src="assets/home.png" width="340" alt="小红搜小窗首页：简洁搜索框与轻微聚焦效果"></p>
-<p align="center"><sub>小窗首页示意。实际界面以当前发行版为准。</sub></p>
+小红搜是一款 Mac 上的专注搜索工具。它保留小红书真实的搜索结果和笔记，将推荐首页与分散注意力的入口收起。
 
-| 想做的事 | 小红搜的方式 |
+你可以用一扇小窗查资料，也可以展开窗口认真阅读。找到需要的内容后，点击“结束本次搜索”，回到简洁首页，继续自己的工作。
+
+## 一扇小窗，够用了
+
+<p align="center"><img src="assets/0.13.7/home-small.jpg" width="340" alt="真实小窗首页，紧凑标题和搜索控件"></p>
+
+查资料时少占一些屏幕，展开后继续原来的阅读。标准窗口与小窗共用一个网页，切换不重新登录，也不重新开始搜索。
+
+<p align="center"><img src="assets/0.13.7/window-switch.gif" width="680" alt="真实截图序列演示标准窗口与小窗的切换"></p>
+
+## 熟悉的结果，少一些干扰
+
+![真实搜索结果与官方排序筛选](assets/0.13.7/results.jpg)
+
+内容来自小红书。排序与筛选沿用原站，图文、视频和作者资料仍是真实页面。打开笔记之后，当前关键词留在顶栏，随时可以修改或回到这次搜索。
+
+## 舒服地读完一篇笔记
+
+<table><tr><td width="50%"><img src="assets/0.13.7/reading-light.jpg" alt="真实笔记的浅色阅读"></td><td width="50%"><img src="assets/0.13.7/reading-dark.jpg" alt="同一篇真实笔记的深色阅读"></td></tr></table>
+
+按环境选择浅色、深色或跟随小红书。正文大小可以调整，图片和视频保留原站操作。
+
+### 评论，想看时再打开
+
+![原生评论由明确操作展开](assets/0.13.7/comments.jpg)
+
+阅读正文时，下滑不会自动展开评论。需要了解讨论时再点击展开，评论内容和原生回复功能仍保留。
+
+## 找到答案，就停在这里
+
+<p align="center"><img src="assets/0.13.7/end-search.gif" width="860" alt="真实截图序列演示点击结束本次搜索，回到专注首页"></p>
+
+笔记底栏提供“结束本次搜索”。点击后回到首页并停止本次计时，不退出小红书账号、不删除历史，也不关闭 App。
+
+临时想浏览原页面，可以暂停专注。需要持续停用时再关闭干预，这与完成一次搜索是不同的动作。
+
+## 专注程度，由你决定
+
+![真实专注设置，三档干预与独立偏好](assets/0.13.7/focus-settings.jpg)
+
+轻度、适中、深度三档可选。阅读提醒默认关闭，是否开启由你决定；无需为了使用小窗而开启提醒。
+
+![真实窗口与阅读设置，主题、正文大小和窗口偏好](assets/0.13.7/window-settings.jpg)
+
+窗口尺寸与位置可记住，置顶默认关闭。软件最小化或隐藏时，可暂停视频。
+
+## 开始使用
+
+1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.13.7.261013) 下载 `xiaohongsou-0.13.7.261013-arm64-public.zip`。
+2. 解压，在系统允许打开的情况下启动 App；无需产品激活。遇到安全警告请停止，不要绕过系统保护。
+3. 如小红书要求登录，在 App 内按原站流程登录，然后输入想了解的问题。
+
+[安装指南](docs/getting-started.md) · [常见问题](docs/faq.md) · [官网备用下载](https://zhaojunyu.com/apps/xiaohongsou/download/?source=site)
+
+| 常用动作 | 快捷键 |
 | --- | --- |
-| 带着问题搜索 | 聚焦搜索首页，沿用小红书真实结果、排序与筛选。 |
-| 占用更少空间 | 标准窗口与小窗切换，同一网页延续搜索和阅读。 |
-| 决定干预程度 | 轻度、适中、深度三档，阅读提醒默认关闭。 |
-| 自然结束 | 结束本次搜索回到首页，不退出账号、不删除历史。 |
-| 少一点更新打扰 | 0.9.0 起后台下载和校验，正常退出后静默安装。 |
+| 编辑当前搜索 | `Command + L` |
+| 查找当前页面文字 | `Command + F` |
+| 标准窗口与小窗切换 | `Command + Shift + M` |
+| 设置 | `Command + ,` |
+| 关闭当前编辑或弹层 | `Escape` |
 
-## 你的节奏，你来定
+## 更新与隐私
 
-![专注设置的官网交互示意：三档干预程度与默认关闭的阅读提醒](assets/settings.png)
+新版由后台发布后，App 可自动检查、下载并校验，正常退出后安装，下次启动生效。不强制中断搜索。自动更新可关闭；本次 0.13.7 发布先提供手动下载，尚未开启自动安装推送。
 
-上图为官网设置演示，不包含真实账号或授权资料。App 内通过顶栏、侧栏或 `Command + ,` 打开同一个设置窗口。
+匿名安装统计默认开启，可关闭。它只上报随机安装编号和软件环境，不向开发者上传搜索词、笔记内容、账号或小红书 Cookie。小红书自身的内容服务与隐私规则另行适用。
 
-## 下载与开始使用
+公开版不访问钥匙串，不读取 Chrome 登录，也不做设备准入或到期锁定。App 内的小红书登录与浏览器独立。
 
-1. 在 [Releases](https://github.com/zjyart/xiaohongsou/releases/latest) 下载名称带 `arm64-invite.zip` 的安装包，**不是** `Source code` 归档。
-2. 使用同页的 `.sha256.txt` 核对文件完整性。完整性校验不等于病毒检测或 Apple 公证。
-3. 解压后，在 App 复制设备编号，由内测提供者批准并绑定邀请码。
-4. 点击“验证使用资格”，在系统浏览器完成邀请码验证，再返回 App。
+[隐私说明](https://zhaojunyu.com/apps/xiaohongsou/docs/#privacy) · [版本记录](CHANGELOG.md)
 
-默认首次启用后连续 72 小时，延期、换绑与撤回由管理员管理。需要小红书登录时，在 App 内单独完成；产品授权与小红书账号无关。
+## 关于小红搜
 
-[安装指南](docs/getting-started.md) · [版本记录](CHANGELOG.md) · [官网备用下载](https://zhaojunyu.com/apps/xiaohongsou/download/?source=site)
+小红搜是独立开发的非官方应用，与小红书无官方隶属、合作或背书关系。本文图片为 0.13.7 的真实 App 截图，动图由真实截图序列组成，并非界面重绘或精确帧率录屏。公开笔记仅用于说明阅读界面，内容权利归原作者及相关权利人，不代表其推荐或背书。
 
-## 隐私与边界
+这是闭源软件的公开发行仓库，只包含产品图文、文档和发行记录。程序源码、构建工程、后台、私钥及私人资料不公开。GitHub 自动提供的 `Source code` 归档只包含这些公开资料，安装请下载 Releases 中的 App ZIP。
 
-- 当前版不访问钥匙串，不读取系统浏览器 Cookie，App 授权会话只保留在内存。
-- 授权服务接收匿名设备摘要、授权编号和验证时间，不接收小红书搜索词、笔记内容或 Cookie。
-- 一个邀请码对应一台获批电脑。此限制不能保证抵抗二进制修改或硬件身份伪造。
-- 小红搜是独立开发的**非官方** macOS 应用，与小红书不存在官方隶属、合作或背书关系。
-
-## 关于这个仓库
-
-这是**闭源软件的公开发行仓库**，仅包含产品图文、使用文档和发行记录。安装包单独附在 Releases；程序源码、构建工程、授权后台、邀请码和设备数据库均不公开。
-
-GitHub 自动生成的 `Source code (zip / tar.gz)` 只归档本仓库的公开资料，不包含可编译的 App 源码。[GitHub 发行归档说明](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
+普通问题可提交 [Issue](https://github.com/zjyart/xiaohongsou/issues/new/choose)。安全和隐私问题请联系 [zjyart@gmail.com](mailto:zjyart@gmail.com)，不要公开登录资料、设备编号或令牌。
 
 Copyright (c) 2026 Junyu ZHAO. All rights reserved. [版权说明](NOTICE.txt)
-
-普通问题可提交 [Issue](https://github.com/zjyart/xiaohongsou/issues/new/choose)。安全与授权问题请私下联系 [zjyart@gmail.com](mailto:zjyart@gmail.com)，不要公开邀请码、设备编号、令牌或登录数据。
