@@ -9,7 +9,7 @@ body:
     id: app_version
     attributes:
       label: App 版本
-      placeholder: 0.9.0.261010
+      placeholder: 0.13.7.261013
     validations:
       required: true
   - type: input
