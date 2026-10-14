@@ -8,6 +8,10 @@
 !docs/*.md
 !assets/
 !assets/*.png
+!assets/0.13.7/
+!assets/0.13.7/README.md
+!assets/0.13.7/*.jpg
+!assets/0.13.7/*.gif
 !assets/README.md
 !.github/
 !.github/ISSUE_TEMPLATE/
