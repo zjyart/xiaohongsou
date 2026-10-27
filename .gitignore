@@ -12,6 +12,10 @@
 !assets/0.13.7/README.md
 !assets/0.13.7/*.jpg
 !assets/0.13.7/*.gif
+!assets/0.14.4/
+!assets/0.14.4/README.md
+!assets/0.14.4/*.jpg
+!assets/0.14.4/*.gif
 !assets/README.md
 !.github/
 !.github/ISSUE_TEMPLATE/
