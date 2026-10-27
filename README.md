@@ -3,7 +3,7 @@
 <p align="center"><strong>让搜索更专注。</strong></p>
 <p align="center">在小红书里找答案，把注意力留给眼前的问题。</p>
 <p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.4.261028"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
-<p align="center">Apple 芯片 Mac · macOS 13+ · 无需邀请码 · 无使用期限</p>
+<p align="center">Apple 芯片 Mac · macOS 13+ · 免费使用</p>
 
 > **公开测试版 0.14.4。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
 
@@ -60,7 +60,7 @@
 ## 开始使用
 
 1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.4.261028) 下载 `xiaohongsou-0.14.4.261028-arm64-public.zip`。
-2. 解压，在系统允许打开的情况下启动 App；无需产品激活。遇到安全警告请停止，不要绕过系统保护。
+2. 解压，在系统允许打开的情况下启动 App。遇到安全警告请停止，不要绕过系统保护。
 3. 如小红书要求登录，在 App 内按原站流程登录，然后输入想了解的问题。
 
 [安装指南](docs/getting-started.md) · [常见问题](docs/faq.md) · [官网备用下载](https://zhaojunyu.com/apps/xiaohongsou/download/?source=site)
@@ -79,7 +79,7 @@
 
 匿名安装统计默认开启，可关闭。它只上报随机安装编号和软件环境，不向开发者上传搜索词、笔记内容、账号或小红书 Cookie。小红书自身的内容服务与隐私规则另行适用。
 
-公开版不访问钥匙串，不读取 Chrome 登录，也不做设备准入或到期锁定。App 内的小红书登录与浏览器独立。
+公开版不访问钥匙串，不读取系统浏览器 Cookie。App 内的小红书登录与浏览器独立。
 
 [隐私说明](https://zhaojunyu.com/apps/xiaohongsou/docs/#privacy) · [版本记录](CHANGELOG.md)
 
@@ -89,6 +89,6 @@
 
 这是闭源软件的公开发行仓库，只包含产品图文、文档和发行记录。程序源码、构建工程、后台、私钥及私人资料不公开。GitHub 自动提供的 `Source code` 归档只包含这些公开资料，安装请下载 Releases 中的 App ZIP。
 
-普通问题可提交 [Issue](https://github.com/zjyart/xiaohongsou/issues/new/choose)。安全和隐私问题请联系 [zjyart@gmail.com](mailto:zjyart@gmail.com)，不要公开登录资料、设备编号或令牌。
+普通问题可提交 [Issue](https://github.com/zjyart/xiaohongsou/issues/new/choose)。安全和隐私问题请联系 [zjyart@gmail.com](mailto:zjyart@gmail.com)，不要公开登录资料或私有笔记。
 
 Copyright (c) 2026 Junyu ZHAO. All rights reserved. [版权说明](NOTICE.txt)
