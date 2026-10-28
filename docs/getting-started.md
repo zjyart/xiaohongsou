@@ -8,7 +8,7 @@
 
 ## 下载与打开
 
-1. 在 [当前 GitHub 发行页](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.4.261028) 下载 `xiaohongsou-0.14.4.261028-arm64-public.zip` 和同名 `.sha256.txt`。
+1. 在 [当前 GitHub 发行页](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.5.261029) 下载 `xiaohongsou-0.14.5.261029-arm64-public.zip` 和同名 `.sha256.txt`。
 2. 可用终端命令核对完整性，结果应与校验文件一致。
 3. 解压后将小红搜放到自己有写入权限的应用目录。在系统允许的情况下打开。
 4. 如小红书要求登录，在 App 内按原站流程完成。
