@@ -7,3 +7,5 @@
 根目录的 `home.png`、`settings.png` 为以前保留的官网示意，当前 README 不用它们代替真实 App；旧素材不删除。`icon.png` 为品牌图标。
 
 实际界面以当前发行版及小红书原站内容为准。
+
+`product-intro-0.14.4-neutral/` 为九张带标题和窗口装饰的产品介绍图；截图内容未重绘，详细说明见 [产品图集](../docs/product-gallery.md)。

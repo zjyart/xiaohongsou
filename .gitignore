@@ -20,3 +20,6 @@
 !.github/
 !.github/ISSUE_TEMPLATE/
 !.github/ISSUE_TEMPLATE/*.yml
+!assets/product-intro-0.14.4-neutral/
+!assets/product-intro-0.14.4-neutral/README.md
+!assets/product-intro-0.14.4-neutral/*.png

@@ -13,6 +13,14 @@
 
 你可以用一扇小窗查资料，也可以展开窗口认真阅读。找到需要的内容后，点击“结束本次搜索”，回到简洁首页，继续自己的工作。
 
+## 产品图集
+
+<table><tr><td width="50%"><a href="docs/product-gallery.md"><img src="assets/product-intro-0.14.4-neutral/02-small-window.png" alt="小窗模式产品介绍：少占屏幕，多一点专注"></a></td><td width="50%"><a href="docs/product-gallery.md"><img src="assets/product-intro-0.14.4-neutral/05-official-filter.png" alt="官方排序与筛选产品介绍：筛得更准，找得更快"></a></td></tr></table>
+
+[查看全部九张产品介绍图](docs/product-gallery.md) · [下载高清素材（45 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-neutral.zip)
+
+产品图以实际界面局部截图配合标题和窗口装饰，涵盖搜索、小窗、阅读、筛选、点点 AI、页内查找与阅读设置。
+
 ## 一扇小窗，够用了
 
 <p align="center"><img src="assets/0.14.4/home-small.jpg" width="340" alt="真实小窗首页，紧凑标题和搜索控件"></p>
@@ -84,6 +92,8 @@ App 会在后台检查、下载并校验更新，按当前设置在正常退出�
 [隐私说明](https://zhaojunyu.com/apps/xiaohongsou/docs/#privacy) · [版本记录](CHANGELOG.md)
 
 ## 关于小红搜
+
+以下图片版本说明指原始界面截图；新增宣传排版与截图来源见 [产品图集的图片说明](docs/product-gallery.md#图片说明)。
 
 小红搜是独立开发的非官方应用，与小红书无官方隶属、合作或背书关系。本文图片为 0.14.4 的真实 App 截图，动图由真实截图序列组成，并非界面重绘或精确帧率录屏。公开笔记仅用于说明阅读界面，内容权利归原作者及相关权利人，不代表其推荐或背书。
 
