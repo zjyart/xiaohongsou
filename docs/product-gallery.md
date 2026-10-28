@@ -1,8 +1,8 @@
 # 小红搜 · 产品图集
 
-[返回产品介绍](../README.md) · [下载高清素材（45 张 PNG，约 16.5 MiB）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-neutral.zip)
+[返回产品介绍](../README.md) · [官网产品页](https://zhaojunyu.com/apps/xiaohongsou/product/) · [下载高清素材（60 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-complete.zip)
 
-围绕一次搜索，少一些干扰。九张图展示小红搜的搜索、阅读与窗口功能，沿用品牌红、白色和中性灰的视觉。
+围绕一次搜索，少一些干扰。十二张图展示小红搜的搜索、阅读与窗口功能，沿用品牌红、白色和中性灰的视觉。
 
 ## 01 · 专注搜索
 
@@ -76,10 +76,34 @@
 
 <p align="center"><img src="../assets/product-intro-0.14.4-neutral/09-reading-type.png" width="1000" alt="文字大小，读着舒服就好。"></p>
 
+## 10 · 阅读主题
+
+**浅色、深色，都读得舒服。**
+
+浅色、深色或跟随小红书，按当前环境选择舒服的阅读明暗。
+
+<p align="center"><img src="../assets/product-intro-0.14.4-neutral/10-reading-themes.png" width="1000" alt="浅色、深色，都读得舒服。"></p>
+
+## 11 · 按需展开评论
+
+**评论，想看时再打开。**
+
+阅读正文时保持评论收起；想看讨论，再点击展开。
+
+<p align="center"><img src="../assets/product-intro-0.14.4-neutral/11-comments-on-demand.png" width="1000" alt="评论，想看时再打开。"></p>
+
+## 12 · 窗口偏好
+
+**小窗怎么用，按习惯来。**
+
+记住窗口尺寸与位置，置顶按需开启；最小化或隐藏时，可暂停视频。
+
+<p align="center"><img src="../assets/product-intro-0.14.4-neutral/12-window-preferences.png" width="1000" alt="小窗怎么用，按习惯来。"></p>
+
 ## 图片说明
 
 产品图使用当前版本及此前实测界面的局部截图，加入宣传标题、窗口装饰和投影；没有重绘截图内的界面文字。实际界面以当前发行版与小红书原站为准。
 
 点点 AI 是小红书提供的服务。公开笔记仅用于展示阅读界面，内容权利归原作者及相关权利人，不代表其推荐或背书。小红搜是独立开发的非官方应用。
 
-图集中的九张 PNG 为 2048×1280；高清包按五个尺寸整理，共 45 张 PNG。素材使用范围见 [版权说明](../NOTICE.txt)。
+图集中的十二张 PNG 为 2048×1280；高清包按五个尺寸整理，共 60 张 PNG。素材使用范围见 [版权说明](../NOTICE.txt)。

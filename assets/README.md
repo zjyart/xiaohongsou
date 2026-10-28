@@ -8,4 +8,4 @@
 
 实际界面以当前发行版及小红书原站内容为准。
 
-`product-intro-0.14.4-neutral/` 为九张带标题和窗口装饰的产品介绍图；截图内容未重绘，详细说明见 [产品图集](../docs/product-gallery.md)。
+`product-intro-0.14.4-neutral/` 为十二张带标题和窗口装饰的产品介绍图；截图内容未重绘，详细说明见 [产品图集](../docs/product-gallery.md)。
