@@ -3,7 +3,7 @@
 <p align="center"><strong>让搜索更专注。</strong></p>
 <p align="center">在小红书里找答案，把注意力留给眼前的问题。</p>
 <p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.4.261028"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
-<p align="center">Apple 芯片 Mac · macOS 13+ · 免费使用</p>
+<p align="center">Apple 芯片 Mac · macOS 13+</p>
 
 > **公开测试版 0.14.4。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
 
@@ -75,9 +75,9 @@
 
 ## 更新与隐私
 
-新版由后台发布后，App 可自动检查、下载并校验，正常退出后安装，下次启动生效。不强制中断搜索。自动更新可关闭；本次 0.14.4 发布先提供手动下载，尚未开启自动安装推送。
+App 会在后台检查、下载并校验更新，按当前设置在正常退出后安装，不强制中断搜索。本版同时提供官网与 GitHub 手动下载。
 
-匿名安装统计默认开启，可关闭。它只上报随机安装编号和软件环境，不向开发者上传搜索词、笔记内容、账号或小红书 Cookie。小红书自身的内容服务与隐私规则另行适用。
+匿名安装统计默认开启，可关闭。它只记录版本和系统环境，不向开发者上传搜索词、笔记内容、账号或小红书 Cookie。小红书自身的内容服务与隐私规则另行适用。
 
 公开版不访问钥匙串，不读取系统浏览器 Cookie。App 内的小红书登录与浏览器独立。
 
