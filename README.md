@@ -15,9 +15,13 @@
 
 ## 产品图集
 
-<table><tr><td width="50%"><a href="docs/product-gallery.md"><img src="assets/product-intro-0.14.4-neutral/02-small-window.png" alt="小窗模式产品介绍：少占屏幕，多一点专注"></a></td><td width="50%"><a href="docs/product-gallery.md"><img src="assets/product-intro-0.14.4-neutral/05-official-filter.png" alt="官方排序与筛选产品介绍：筛得更准，找得更快"></a></td></tr></table>
+<table>
+<tr><td width="33%"><a href="docs/product-gallery.md#01--专注搜索"><img src="assets/product-intro-0.14.4-neutral/01-search.png" alt="专注搜索产品介绍：让搜索，回到搜索本身"></a><br><strong>01 · 专注搜索</strong></td><td width="33%"><a href="docs/product-gallery.md#02--小窗模式"><img src="assets/product-intro-0.14.4-neutral/02-small-window.png" alt="小窗模式产品介绍：少占屏幕，多一点专注"></a><br><strong>02 · 小窗模式</strong></td><td width="33%"><a href="docs/product-gallery.md#03--专注阅读"><img src="assets/product-intro-0.14.4-neutral/03-reading.png" alt="专注阅读产品介绍：读完了，就结束"></a><br><strong>03 · 专注阅读</strong></td></tr>
+<tr><td width="33%"><a href="docs/product-gallery.md#04--自由掌握"><img src="assets/product-intro-0.14.4-neutral/04-focus-settings.png" alt="自由掌握产品介绍：专注到什么程度，由你决定"></a><br><strong>04 · 自由掌握</strong></td><td width="33%"><a href="docs/product-gallery.md#05--官方排序与筛选"><img src="assets/product-intro-0.14.4-neutral/05-official-filter.png" alt="官方排序与筛选产品介绍：筛得更准，找得更快"></a><br><strong>05 · 官方排序与筛选</strong></td><td width="33%"><a href="docs/product-gallery.md#06--点点-ai"><img src="assets/product-intro-0.14.4-neutral/06-diandian-ai.png" alt="点点 AI产品介绍：想多问一句，就问点点"></a><br><strong>06 · 点点 AI</strong></td></tr>
+<tr><td width="33%"><a href="docs/product-gallery.md#07--笔记内查找"><img src="assets/product-intro-0.14.4-neutral/07-find-in-note.png" alt="笔记内查找产品介绍：长笔记里，找到关键一句"></a><br><strong>07 · 笔记内查找</strong></td><td width="33%"><a href="docs/product-gallery.md#08--阅读提醒"><img src="assets/product-intro-0.14.4-neutral/08-reading-reminder.png" alt="阅读提醒产品介绍：看得久了，轻轻提醒你"></a><br><strong>08 · 阅读提醒</strong></td><td width="33%"><a href="docs/product-gallery.md#09--阅读字号"><img src="assets/product-intro-0.14.4-neutral/09-reading-type.png" alt="阅读字号产品介绍：文字大小，读着舒服就好"></a><br><strong>09 · 阅读字号</strong></td></tr>
+</table>
 
-[查看全部九张产品介绍图](docs/product-gallery.md) · [下载高清素材（45 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-neutral.zip)
+[官网查看同款图集](https://zhaojunyu.com/apps/xiaohongsou/#product-gallery) · [查看全部九张产品介绍图](docs/product-gallery.md) · [下载高清素材（45 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-neutral.zip)
 
 产品图以实际界面局部截图配合标题和窗口装饰，涵盖搜索、小窗、阅读、筛选、点点 AI、页内查找与阅读设置。
 
