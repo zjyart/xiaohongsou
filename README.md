@@ -2,10 +2,10 @@
 <h1 align="center">小红搜。</h1>
 <p align="center"><strong>让搜索更专注。</strong></p>
 <p align="center">在小红书里找答案，把注意力留给眼前的问题。</p>
-<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.6.261029"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
+<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.11.261030"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
 <p align="center">Apple 芯片 Mac · macOS 13+</p>
 
-> **公开测试版 0.14.6。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
+> **公开测试版 0.14.11。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
 
 <p align="center"><img src="assets/product-intro-0.14.4-neutral/01-search.png" width="940" alt="专注搜索：让搜索，回到搜索本身。"></p>
 
@@ -13,7 +13,7 @@
 
 你可以用一扇小窗查资料，也可以展开窗口认真阅读。找到需要的内容后，点击“结束本次搜索”，回到简洁首页，继续自己的工作。
 
-本次更新：粘贴分享文字直达笔记，搜索编辑、请求取消和菜单操作更顺手。[查看 0.14.6 更新说明](CHANGELOG.md)。
+本次更新：统一安静阅读控件，修复搜索跳转与图片显示，减少滚动和操作中的重复工作。[查看 0.14.11 更新说明](CHANGELOG.md)。
 
 <a id="产品图集"></a>
 
@@ -95,7 +95,7 @@
 
 ## 开始使用
 
-1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.6.261029) 下载 `xiaohongsou-0.14.6.261029-arm64-public.zip`。
+1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.11.261030) 下载 `xiaohongsou-0.14.11.261030-arm64-public.zip`。
 2. 解压，在系统允许打开的情况下启动 App。遇到安全警告请停止，不要绕过系统保护。
 3. 如小红书要求登录，在 App 内按原站流程登录，然后输入想了解的问题。
 

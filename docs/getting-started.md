@@ -4,11 +4,11 @@
 
 支持 Apple 芯片 Mac、macOS 13 或更高版本。当前不提供 Intel、Windows 或手机安装包。小红书内容仍需要网络连接。
 
-0.14.4 为公开测试版。仍未取得 Developer ID 签名和 Apple 公证，可能被系统阻止打开。遇到系统或浏览器安全警告请停止安装并联系开发者，不要关闭保护或运行绕过脚本。
+当前为 0.14.11 公开测试版。仍未取得 Developer ID 签名和 Apple 公证，可能被系统阻止打开。遇到系统或浏览器安全警告请停止安装并联系开发者，不要关闭保护或运行绕过脚本。
 
 ## 下载与打开
 
-1. 在 [当前 GitHub 发行页](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.6.261029) 下载 `xiaohongsou-0.14.6.261029-arm64-public.zip` 和同名 `.sha256.txt`。
+1. 在 [当前 GitHub 发行页](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.11.261030) 下载 `xiaohongsou-0.14.11.261030-arm64-public.zip` 和同名 `.sha256.txt`。
 2. 可用终端命令核对完整性，结果应与校验文件一致。
 3. 解压后将小红搜放到自己有写入权限的应用目录。在系统允许的情况下打开。
 4. 如小红书要求登录，在 App 内按原站流程完成。
@@ -31,6 +31,8 @@ GitHub 无法访问时使用 [官网备用下载](https://zhaojunyu.com/apps/xia
 
 | 动作 | 快捷键 |
 | --- | --- |
+| 打开分享文字或笔记链接 | `Command + O` |
+| 打开剪贴板中的分享 | `Command + Shift + V` |
 | 编辑当前搜索 | `Command + L` |
 | 查找页面文字 | `Command + F` |
 | 后退 / 前进 | `Command + [` / `Command + ]` |
@@ -49,6 +51,6 @@ GitHub 无法访问时使用 [官网备用下载](https://zhaojunyu.com/apps/xia
 
 App 支持后台检查、下载和验证，正常退出后安装，下次启动生效，不强制退出当前搜索。无写入权限、网络或签名校验失败时保留当前版本。
 
-本次 0.14.4 先通过 GitHub 和官网提供手动下载，尚未开启自动安装推送。自动更新清单仍由官网签名，不因为下载渠道不同而降低校验。
+当前版本已开放自动更新；也可在 App 中手动检查更新。自动更新清单由官网签名，GitHub 与官网提供同一版本的安装包。
 
 [常见问题](faq.md) · [完整 Docs](https://zhaojunyu.com/apps/xiaohongsou/docs/)
