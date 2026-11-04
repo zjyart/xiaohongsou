@@ -4,11 +4,11 @@
 
 支持 Apple 芯片 Mac、macOS 13 或更高版本。当前不提供 Intel、Windows 或手机安装包。小红书内容仍需要网络连接。
 
-当前为 0.14.11 公开测试版。仍未取得 Developer ID 签名和 Apple 公证，可能被系统阻止打开。遇到系统或浏览器安全警告请停止安装并联系开发者，不要关闭保护或运行绕过脚本。
+当前为 0.14.21 公开测试版。仍未取得 Developer ID 签名和 Apple 公证，可能被系统阻止打开。遇到系统或浏览器安全警告请停止安装并联系开发者，不要关闭保护或运行绕过脚本。
 
 ## 下载与打开
 
-1. 在 [当前 GitHub 发行页](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.16.261103) 下载 `xiaohongsou-0.14.16.261103-arm64-public.zip` 和同名 `.sha256.txt`。
+1. 在 [当前 GitHub 发行页](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.21.261103) 下载 `xiaohongsou-0.14.21.261103-arm64-public.zip` 和同名 `.sha256.txt`。
 2. 可用终端命令核对完整性，结果应与校验文件一致。
 3. 解压后将小红搜放到自己有写入权限的应用目录。在系统允许的情况下打开。
 4. 如小红书要求登录，在 App 内按原站流程完成。
