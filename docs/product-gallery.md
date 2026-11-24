@@ -8,17 +8,17 @@
 
 ### 小窗置顶
 
-调高光时，把笔记置顶在修图窗口旁。
+切回正在编辑的文档后，已置顶的小窗仍留在前面。
 
-<img src="../assets/product-scenes-0.14.30/49-pinned-while-editing.webp" width="440" alt="调高光时，把笔记置顶在修图窗口旁。">
+<img src="../assets/product-scenes-0.14.30-r2/49-pin-over-active-document.webp" width="440" alt="切回正在编辑的文档后，已置顶的小窗仍留在前面。">
 
-### 粘贴分享，打开笔记
+### 从微信聊天打开分享
 
-朋友分享来的绿植笔记，可以直接在小窗里打开。
+从微信聊天复制小红书链接，在小红搜按 ⌘⇧V，打开同一篇笔记。
 
-<img src="../assets/product-scenes-0.14.30/50-open-shared-note.webp" width="440" alt="朋友分享来的绿植笔记，可以直接在小窗里打开。">
+<img src="../assets/product-scenes-0.14.30-r2/50-wechat-share-to-note.webp" width="440" alt="从微信聊天复制小红书链接，在小红搜按 ⌘⇧V，打开同一篇笔记。">
 
-场景图片来自 [Pexels](https://www.pexels.com/photo/7679734/) 与 [cottonbro studio](https://www.pexels.com/photo/person-using-macbook-pro-4065619/)，界面使用演示笔记。
+场景图片来自 [Pexels](https://www.pexels.com/photo/hands-typing-on-laptop-at-black-desk-35580877/) 与 [cottonbro studio](https://www.pexels.com/photo/person-using-macbook-pro-4065619/)，界面使用演示笔记。
 
 ## 01 · 专注搜索
 
