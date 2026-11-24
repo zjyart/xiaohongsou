@@ -17,7 +17,7 @@
 
 <a id="产品图集"></a>
 
-[官网产品介绍](https://zhaojunyu.com/apps/xiaohongsou/product/) · [查看完整产品图集](docs/product-gallery.md) · [下载高清素材（60 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-complete.zip)
+[官网产品介绍](https://zhaojunyu.com/apps/xiaohongsou/product/) · [0.14.30 场景图](docs/product-gallery.md#01430--小窗留在手边) · [查看完整产品图集](docs/product-gallery.md) · [下载高清素材（60 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-complete.zip)
 
 ## 一扇小窗，够用了
 

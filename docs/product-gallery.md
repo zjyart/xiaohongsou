@@ -4,6 +4,22 @@
 
 围绕一次搜索，少一些干扰。十二张图展示小红搜的搜索、阅读与窗口功能，沿用品牌红、白色和中性灰的视觉。
 
+## 0.14.30 · 小窗留在手边
+
+### 小窗置顶
+
+调高光时，把笔记置顶在修图窗口旁。
+
+<img src="../assets/product-scenes-0.14.30/49-pinned-while-editing.webp" width="440" alt="调高光时，把笔记置顶在修图窗口旁。">
+
+### 粘贴分享，打开笔记
+
+朋友分享来的绿植笔记，可以直接在小窗里打开。
+
+<img src="../assets/product-scenes-0.14.30/50-open-shared-note.webp" width="440" alt="朋友分享来的绿植笔记，可以直接在小窗里打开。">
+
+场景图片来自 [Pexels](https://www.pexels.com/photo/7679734/) 与 [cottonbro studio](https://www.pexels.com/photo/person-using-macbook-pro-4065619/)，界面使用演示笔记。
+
 ## 01 · 专注搜索
 
 **让搜索，回到搜索本身。**
