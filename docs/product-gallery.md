@@ -4,6 +4,28 @@
 
 围绕一次搜索，少一些干扰。十二张图展示小红搜的搜索、阅读与窗口功能，沿用品牌红、白色和中性灰的视觉。
 
+<a id="release-01431-scenes"></a>
+
+## 0.14.31 · 查完接着做
+
+### 修图时查一条教程
+
+<img src="../assets/product-scenes-0.14.31/01-ps-tutorial-and-color.jpg" width="820" alt="修图窗口旁的小红搜小窗">
+
+### 找到答案，结束这次搜索
+
+<img src="../assets/product-scenes-0.14.31/02-finish-search-on-mac.jpg" width="820" alt="整理清单旁完整的小红搜小窗，底部保留结束搜索">
+
+### 深色阅读
+
+<img src="../assets/product-scenes-0.14.31/03-dark-reading-on-mac.jpg" width="420" alt="Mac 深色阅读和结束本次搜索入口">
+
+### iPhone 界面预览
+
+<img src="../assets/product-scenes-0.14.31/04-iphone-reading-preview.jpg" width="420" alt="iPhone 深色阅读体验预览">
+
+场景为海报示意，设备中使用小红搜演示界面。这个版本的下载为 Mac 安装包。
+
 ## 0.14.30 · 小窗留在手边
 
 ### 小窗置顶

@@ -2,22 +2,22 @@
 <h1 align="center">小红搜。</h1>
 <p align="center"><strong>让搜索更专注。</strong></p>
 <p align="center">在小红书里找答案，把注意力留给眼前的问题。</p>
-<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.30.261124"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
+<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.31.261125"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
 <p align="center">Apple 芯片 Mac · macOS 13+</p>
 
-> **公开测试版 0.14.30。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
+> **公开测试版 0.14.31。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
 
-<p align="center"><img src="assets/product-intro-0.14.4-neutral/01-search.png" width="940" alt="专注搜索：让搜索，回到搜索本身。"></p>
+<p align="center"><a href="docs/product-gallery.md#release-01431-scenes"><img src="assets/product-scenes-0.14.31/01-ps-tutorial-and-color.jpg" width="455" alt="修图时，在旁边的小红搜小窗里查 PS 教程。"></a> <a href="docs/product-gallery.md#release-01431-scenes"><img src="assets/product-scenes-0.14.31/02-finish-search-on-mac.jpg" width="455" alt="小窗底部可以结束本次搜索，回到手头的事。"></a></p>
 
 小红搜是一款 Mac 上的专注搜索工具。它保留小红书真实的搜索结果和笔记，将推荐首页与分散注意力的入口收起。
 
 你可以用一扇小窗查资料，也可以展开窗口认真阅读。找到需要的内容后，点击“结束本次搜索”，回到简洁首页，继续自己的工作。
 
-本次更新：小窗可以一键置顶，关键词更易辨认。已有草稿时，返回结果或结束搜索会先提醒。[查看 0.14.30 更新说明](CHANGELOG.md)。
+本次更新：搜索输入、结果筛选和小窗阅读更清楚，查完可以直接回到手头的事。[查看 0.14.31 更新说明](CHANGELOG.md)。
 
 <a id="产品图集"></a>
 
-[官网产品介绍](https://zhaojunyu.com/apps/xiaohongsou/product/) · [0.14.30 场景图](docs/product-gallery.md#01430--小窗留在手边) · [查看完整产品图集](docs/product-gallery.md) · [下载高清素材（60 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-complete.zip)
+[官网产品介绍](https://zhaojunyu.com/apps/xiaohongsou/product/) · [0.14.31 场景图](docs/product-gallery.md#release-01431-scenes) · [查看完整产品图集](docs/product-gallery.md) · [下载高清素材（60 张 PNG）](https://github.com/zjyart/xiaohongsou/releases/download/v0.14.4.261028/xiaohongsou-product-images-0.14.4-complete.zip)
 
 ## 一扇小窗，够用了
 
@@ -95,7 +95,7 @@
 
 ## 开始使用
 
-1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.30.261124) 下载 `xiaohongsou-0.14.30.261124-arm64-public.zip`。
+1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.31.261125) 下载 `xiaohongsou-0.14.31.261125-arm64-public.zip`。
 2. 解压，在系统允许打开的情况下启动 App。遇到安全警告请停止，不要绕过系统保护。
 3. 如小红书要求登录，在 App 内按原站流程登录，然后输入想了解的问题。
 
