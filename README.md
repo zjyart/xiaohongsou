@@ -2,10 +2,10 @@
 <h1 align="center">小红搜。</h1>
 <p align="center"><strong>让搜索更专注。</strong></p>
 <p align="center">在小红书里找答案，把注意力留给眼前的问题。</p>
-<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.31.261125"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
+<p align="center"><a href="https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.37.261127"><strong>下载 Mac 公开版</strong></a> · <a href="https://zhaojunyu.com/apps/xiaohongsou/">官网</a> · <a href="docs/getting-started.md">开始使用</a></p>
 <p align="center">Apple 芯片 Mac · macOS 13+</p>
 
-> **公开测试版 0.14.31。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
+> **公开测试版 0.14.37。** 当前尚未取得 Developer ID 签名与 Apple 公证，可能受系统安全限制。遇到系统或浏览器安全警告，请停止安装并联系开发者。
 
 <p align="center"><a href="docs/product-gallery.md#release-01431-scenes"><img src="assets/product-scenes-0.14.31/01-ps-tutorial-and-color.jpg" width="455" alt="修图时，在旁边的小红搜小窗里查 PS 教程。"></a> <a href="docs/product-gallery.md#release-01431-scenes"><img src="assets/product-scenes-0.14.31/02-finish-search-on-mac.jpg" width="455" alt="小窗底部可以结束本次搜索，回到手头的事。"></a></p>
 
@@ -13,7 +13,7 @@
 
 你可以用一扇小窗查资料，也可以展开窗口认真阅读。找到需要的内容后，点击“结束本次搜索”，回到简洁首页，继续自己的工作。
 
-本次更新：搜索输入、结果筛选和小窗阅读更清楚，查完可以直接回到手头的事。[查看 0.14.31 更新说明](CHANGELOG.md)。
+本次更新：专注首页从应用内直接打开。小窗导航和笔记底栏更清晰。[查看 0.14.37 更新说明](CHANGELOG.md)。
 
 <a id="产品图集"></a>
 
@@ -95,7 +95,7 @@
 
 ## 开始使用
 
-1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.31.261125) 下载 `xiaohongsou-0.14.31.261125-arm64-public.zip`。
+1. 从 [GitHub Releases](https://github.com/zjyart/xiaohongsou/releases/tag/v0.14.37.261127) 下载 `xiaohongsou-0.14.37.261127-arm64-public.zip`。
 2. 解压，在系统允许打开的情况下启动 App。遇到安全警告请停止，不要绕过系统保护。
 3. 如小红书要求登录，在 App 内按原站流程登录，然后输入想了解的问题。
 
